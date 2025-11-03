@@ -1,0 +1,124 @@
+Contents
+What is the agile manifesto?	2
+What are the principles behind the agile manifesto. Describe each.	2
+What are the pros and cons of each value listed in the Agile Manifesto?	3
+Why should an organisation go agile?	5
+What are the problems with agile models?	5
+What is agile modelling (AM)?	6
+What is an agile model?	6
+What are the values of AM?	6
+What is the difference between AM and “traditional modelling”?	7
+What is Scrum?	7
+Describe the scrum team.	7
+What is a scrum sprint?	7
+What are the product and sprint backlogs.	8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the agile manifesto?
+The Agile Manifesto is a document published in 2001 by 17 software developers that outlines four core values and 12 underlying principles for agile software development. It serves as an alternative to traditional, document-heavy software development methods by emphasizing individuals and interactions, working software, customer collaboration, and the ability to respond to change. The manifesto advocates for a collaborative, iterative, and customer-centric approach to project management, fostering an adaptable mindset that can be applied beyond the software industry. 
+
+What are the principles behind the agile manifesto. Describe each.
+1
+Our highest priority is to satisfy the customer through the early and continuous delivery of valuable software.
+7
+Working software is the primary measure of progress.
+2
+Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
+8
+Agile processes promote sustainable development. The sponsors, developers, and users should be able to keep a constant pace indefinitely.
+3
+Deliver working software often, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+9
+Continuous attention to technical excellence and good design enhances agility.
+4
+Businesspeople and developers must work together daily throughout the project.
+10
+Simplicity–the art of maximizing the amount of work not done–is essential.
+5
+Build projects around motivated individuals. Give them the environment and support they need and trust them to get the job done.
+11
+The best architectures, requirements, and designs appear from self-organizing teams.
+6
+The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+12
+At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.
+
+What are the pros and cons of each value listed in the Agile Manifesto?
+1
+Setting the highest priority to fast product delivery is a major advantage from the client’s point of view. The first working version of the product can be released just after it meets the agreed criteria. The team works fast on the next updates that can be launched even every day. This way, the product is always new and always working.
+However, the approach also has some downsides, as the product is always under development. Hence, the older versions bought by end users can become incompatible quickly or demand continuous update to perform correctly.
+2
+When the team can embrace changing requirements, the product can be adjusted quickly and effectively to the client’s and market’s needs. The challenging environment boosts creativity and can lead to innovation. However, harnessing change is not only exciting, but also very demanding for the team. They need to learn on an everyday basis, and be open to frequent situations, when solutions they developed are not to be continued, or even not implemented into the product at all.
+3
+The rule of frequent delivery is very important for a highly competitive and rapidly changing market environment. It also makes the team avoid developing side functionalities of the product and focus on the major goals set by the customer.
+Nevertheless, when some major changes in the product are planned, this rule should not be followed very strictly. In this case, it is better to test the new solution thoroughly than release an unfinished version of the product.
+4
+Close cooperation between the business and development teams is crucial for delivering a valuable product to the market. The problems that can appear here are with communication and expectations. The reason is that development teams are not always able to communicate the technical limitations of their solutions. Business partners, in turn, may struggle to clarify their expectations, which may rise or become undefined.
+5
+Mutual trust between members of the team, as well as a healthy dose of freedom, are the necessary elements of a successful and efficient work. When the motivated team feels responsible for the work to be done, they usually concentrate their efforts to get the job done. Nevertheless, this project management approach requires a proper balance between independence and control. The team needs an open environment to be creative, but it also needs the limits to work towards goals.
+6
+Face-to-face conversations are mostly replaced by online meetings nowadays. We need to remember that the Agile Manifesto was written in 2001, when remote work was not as common as it is today, and possibilities of online meetings were limited. However, face-to-face meetings, or just video conferences, are very important to keep the team motivated. However, this is a time-consuming solution. Hence, agile project managers often limit the timeboxes and moderate the course of the meeting.
+7
+A new version of working software, or other potentially market-ready product, are the best measures of progress. However, at times, some maintenance works need to be performed. Hence, this principle cannot be taken literally in every single case.
+8
+Sustainable development means the ability of the team to estimate their own ability. This is one of the most important measures of a mature team. If the team should not work in its full ability all the time, there are some special moments in a life cycle of the product, when such periods as e.g. crunch, are necessary.
+9
+Technical excellence means no need to perform time- and resources-consuming revisions. And this is one of the most important reasons for paying continuous attention to the quality of the developed product. In the case of this Agile principle, we cannot point out any cons of this approach.
+10
+The 10th principle of Agile can be expressed in a well-known saying “Work smarter, not harder”. In other words, if some functionality of the product is not going to be released, do not work on it. The con of this approach is the need for a great project manager, who can prioritize the job in a real time, and adjust its scope to client’s demands.
+11
+Self-organizing teams feel responsible for their work, as they cannot say that the failure is a result of bad governance or dated supervision. However, more junior teams often need some coaching or mentoring. Hence, in the beginning, it can be considered to work with an experienced Scrum Master, whose role is described here, or other kind of Agile coach.
+12
+Reflection and adaptation are the basics not only for general agile approach, but also are the foundations of the Scrum framework. It is very hard to find some downside for this adaptive approach, as reflecting on teamwork usually leads to better efficiency, as well as team integration.
+
+Why should an organisation go agile?
+Organizations adopt an Agile approach to gain greater adaptability, enabling them to respond quickly to changing market conditions and customer needs, which in turn leads to faster delivery of value, improved product quality, higher customer satisfaction, and a more resilient and efficient business.
+
+What are the problems with agile models?
+Problems with agile models include poor long-term project planning due to iterative cycles, scope creep and uncertain timelines/budgets, lack of comprehensive documentation, and the need for a significant cultural shift within an organization. Success also hinges on high customer availability and active involvement, as well as having highly skilled and experienced teams capable of rapid adaptation. 
+
+What is agile modelling (AM)?
+Agile Modelling (AM) is a practice-based method for effective modelling and documentation within software development, providing a collection of values, principles, and practices to guide how software models are created and used. 
+
+What is an agile model?
+An agile model is a flexible, iterative approach to project management and software development that emphasizes delivering small, working pieces of a product in regular cycles, rather than a single large delivery at the end. It prioritizes collaboration, customer feedback, and continuous improvement to adapt to changing requirements and deliver value quickly and efficiently. 
+ 
+
+What are the values of AM?
+The values of Agile Modelling (AM) are Communication, Simplicity, Feedback, Courage, and Humility. These values foster collaboration, encourage the creation of clear and straightforward models, enable rapid feedback loops to improve the process, require the bravery to make and adjust decisions, and promote an attitude of recognizing everyone's contributions and not knowing everything. 
+ 
+
+What is the difference between AM and “traditional modelling”?
+Simplified Equipment: Traditional manufacturing processes often involve multiple steps, each using different machines. Yet, in additive manufacturing, a single device manages all aspects of creation. For example, metalworking often uses a combination of turning, milling, and drilling to produce a finished metal part.
+ 
+
+What is Scrum?
+Scrum is a management framework that teams use to self-organize and work towards a common goal. It describes a set of meetings, tools, and roles for efficient project delivery. Much like a sports team practicing for a big match, Scrum practices allow teams to self-manage, learn from experience, and adapt to change.
+
+Describe the scrum team.
+A scrum team is a small, cross-functional, self-organizing group of 3-9 members, including a Product Owner, a Scrum Master, and Developers. This collaborative unit uses the Scrum framework to develop and sustain complex products by iteratively delivering valuable increments within defined Sprints. The team has no internal hierarchies or sub-teams and is entirely accountable for all product-related work, fostering continuous improvement and flexibility.
+
+What is a scrum sprint?
+A Scrum sprint is a short, fixed-length period (typically one to four weeks) within the Scrum agile framework where a development team works to complete a specific set of work, called a Product Increment. The goal of a sprint is to produce a potentially shippable piece of the product, which is then reviewed and used as feedback to inform the next sprint. Sprints provide a predictable, time-boxed cycle for iterative product development, helping teams deliver value incrementally and respond to changes.
+ 
+
+What are the product and sprint backlogs.
+The Product Backlog is a single, prioritized list of all work required for a product's entire lifecycle, owned by the Product Owner, while the Sprint Backlog is a detailed, short-term plan of specific items chosen from the Product Backlog to be completed during the current sprint, owned by the Development Team. The Product Backlog defines what will be built, while the Sprint Backlog outlines how it will be built. 
+
